@@ -1,4 +1,4 @@
-# ternaryPQC: Post-Quantum Cryptographic Wallet System 
+# ternaryPQC-fork
 
 ![ternaryPQC Icon](icon.png)
 
