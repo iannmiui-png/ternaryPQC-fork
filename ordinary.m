@@ -1,4 +1,4 @@
-OMD = [{{AA
+OMD = [([{{AA
 }{AAM
 }}{{{AB
 }}{ab}{{ABA
@@ -20429,8 +20429,8 @@ OMD = [{{AA
 }}{{zuz
 }}{{zuzes
 }}{{zygal
-}}{{zygon
+}}{({zygon
 }}{{zyme
 }}{{zymes
-}}{{zymic]}}}
+}}{{zymic]})})}
 ]
