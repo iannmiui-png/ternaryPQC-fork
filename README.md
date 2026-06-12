@@ -1,5 +1,7 @@
-# ternaryPQC-fork
 ![ternaryPQC Icon](icon.png)
+
+# ternaryPQC-fork
+
 ## Quick Start
 ```bash
 git clone https://github.com/DigiMancer3D/ternaryPQC.git
